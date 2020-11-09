@@ -3,7 +3,7 @@
     "description": "Connect to Terraform Cloud to plan and apply your configuration",
     "iconName": "terraform",
     "categories": [
-        "Infrastructure as Code", "Terraform"
+        "hcl", "terraform"
     ],
     "filePatterns": [
         ".*\\.tf$"
